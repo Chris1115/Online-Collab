@@ -118,5 +118,7 @@ p{
 }
 
 .centerImg{
-	margin:auto !important;
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
 }
