@@ -118,5 +118,5 @@ p{
 }
 
 .centerImg{
-	margin:auto;
+	margin:auto !important;
 }
