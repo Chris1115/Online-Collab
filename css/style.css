@@ -117,8 +117,7 @@ p{
 	text-align:center;
 }
 
-.centerImg{
-	display:block;
-	margin-right:auto;
-	margin-left:auto;
+#sponsor{
+	text-align: center;
+	padding: 7%;
 }
